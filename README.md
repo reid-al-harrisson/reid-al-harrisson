@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I have a good experience in software engineering.
 <!--
 **reid-al-harrisson/reid-al-harrisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
